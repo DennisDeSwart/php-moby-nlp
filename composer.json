@@ -1,0 +1,22 @@
+{
+    "name": "dennis-de-swart/php-moby-nlp",
+    "type": "library",
+    "description": "Gets the complete thought from a verb and a noun using Moby Thesaurus",
+    "keywords": ["Moby","thesaurus","nlp", "natural language", "complete thought"],
+    "homepage": "https://github.com/DennisDeSwart/PHP-Moby-NLP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dennis de Swart",
+            "email": "dennis@dennisdeswart.nl",
+            "homepage": "http://www.dennisdeswart.nl",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+         "php": ">=5.3"        
+    },
+    "autoload": {
+    	"classmap": ["src/"]
+    }
+}

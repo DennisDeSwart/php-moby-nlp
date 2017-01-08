@@ -149,7 +149,7 @@
     </ul>
      <h3>What can I do with the result?</h3>
      <ul class="list-group">
-        <li class="list-group-item">First, you can use it in spam killers: if there are related words in a text, the text is probably not fake.</li>
+        <li class="list-group-item">First, you can use it in spam killers: if there are complete thoughts in a text, the text is probably not fake.</li>
         <li class="list-group-item">Second: you can use this for creating reports and understanding text.</li>
         <li class="list-group-item">Third: this could be used as suggestions in search engines.</li>
     </ul>

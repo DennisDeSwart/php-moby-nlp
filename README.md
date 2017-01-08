@@ -8,7 +8,7 @@ Gets the "complete thought" from a verb and a noun using Moby Thesaurus
 - It uses the Moby Thesaurus to get the "complete thought" from a verb and a noun.
 - This is meant for Natural Language Processing (NLP) tasks.
 
-How does it work?
+## How does it work?
 - The code looks for "complete thoughts", see the link to Wikipedia here:
 ```
 https://simple.wikipedia.org/wiki/Simple_sentence
@@ -27,7 +27,7 @@ https://www.phpclasses.org/package/10056-PHP-Natural-language-processing-using-S
 
 ## What can I do with the result?
 
-- First, you can use it in spam killers: if there are related words in a text, the text is probably not fake.
+- First, you can use it in spam killers: if there are complete thoughts in a text, the text is probably not fake.
 - Second: you can use this for creating reports and understanding text.
 - Third: this could be used as suggestions in search engines.
 
@@ -51,7 +51,7 @@ You can install the adapter by putting the following line into your composer.jso
 
 ## Recommended practices
 
-- Looking up words in the thesaurus costs a lot of time, sometimes up to 2 seconds. You should only lookup words if you need to.
+- Looking up words in the thesaurus can take up to 2 seconds. You should only lookup words if you need to.
 - To select the most important words like verbs and nouns, you can use a NLP parser like Stanford's CoreNLP
 - To use Stanford CoreNLP check these links:
 ```

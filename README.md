@@ -1,5 +1,10 @@
 
 # PHP Moby NLP
+[![Version](https://img.shields.io/packagist/v/dennis-de-swart/php-moby-nlp.svg?style=flat-square)](https://packagist.org/packages/dennis-de-swart/php-moby-nlp)
+[![Total Downloads](https://img.shields.io/packagist/dt/dennis-de-swart/php-moby-nlp.svg?style=flat-square)](https://packagist.org/packages/dennis-de-swart/php-moby-nlp)
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg?style=flat-square)](https://github.com/DennisDeSwart/php-moby-nlp) 
+[![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%205.3-4AC51C.svg?style=flat-square)](http://php.net/)
+[![License](https://img.shields.io/packagist/l/dennis-de-swart/php-moby-nlp.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 Gets the "complete thought" from a verb and a noun using Moby Thesaurus
 
